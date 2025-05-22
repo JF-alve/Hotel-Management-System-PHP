@@ -41,6 +41,7 @@ includes an admin panel for hotel management operations.
 
 - User registration and login
 - Room booking and availability check
+- Automatic booking confirmation email sent to users upon successful booking
 - Admin panel for managing rooms, bookings, and users
 - MySQL database integration
 
