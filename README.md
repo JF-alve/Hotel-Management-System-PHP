@@ -1,4 +1,4 @@
- #Hotel Management System in PHP
+## Hotel Management System in PHP
 
 Project Overview
 This is a web-based Hotel Management System built with PHP and MySQL. 
